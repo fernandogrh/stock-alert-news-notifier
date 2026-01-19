@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.6.2-lightgrey?logo=pandas&logoColor=black)
+![API](https://img.shields.io/badge/API-REST-brightgreen)
+![JSON](https://img.shields.io/badge/JSON-lightblue)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
+![GitHub](https://img.shields.io/badge/GitHub-version1.0-181717?logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 # 📈 Stock Alert & News Notifier (Python)
 ### Real-time stock movement alerts with breaking news straight to your phone. Built to show clean Python logic, API integration, and secure environment handling.
 
