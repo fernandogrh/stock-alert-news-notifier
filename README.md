@@ -1,7 +1,6 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![API](https://img.shields.io/badge/API-REST-brightgreen)
-![JSON](https://img.shields.io/badge/JSON-lightblue)
-![GitHub](https://img.shields.io/badge/GitHub-version1.0-181717?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![API](https://img.shields.io/badge/API-External-brightgreen)
+![Data Format](https://img.shields.io/badge/Data-JSON-lightblue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -81,25 +80,25 @@ All sensitive data is stored in a .env file (never pushed to GitHub):
 
 1. Clone the repo
 
-    git clone https://github.com/fernandogrh/stock-alert-news-notifier.git
-    cd stock-alert-news-notifier
-
+        git clone https://github.com/fernandogrh/stock-alert-news-notifier.git
+        cd stock-alert-news-notifier
+    
 2. Install dependencies
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 3. Copy '.env.example' and rename it to '.env', then fill in your keys:
 
-    STOCKS_API_KEY=your_alpha_vantage_key
-    NEWS_API_KEY=your_newsapi_key
-    TWILIO_ACCOUNT_SID=your_twilio_sid
-    TWILIO_AUTH_TOKEN=your_twilio_auth_token
-    TWILIO_PHONE_NUMBER=your_twilio_number
-    TARGET_PHONE_NUMBER=your_number
+        STOCKS_API_KEY=your_alpha_vantage_key
+        NEWS_API_KEY=your_newsapi_key
+        TWILIO_ACCOUNT_SID=your_twilio_sid
+        TWILIO_AUTH_TOKEN=your_twilio_auth_token
+        TWILIO_PHONE_NUMBER=your_twilio_number
+        TARGET_PHONE_NUMBER=your_number
 
 4. Run:
 
-    python main.py
+        python main.py
 
 ## 📌 Notes for recruiters
 
