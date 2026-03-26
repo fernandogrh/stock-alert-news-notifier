@@ -110,13 +110,13 @@ All sensitive data is stored in a .env file (never pushed to GitHub):
 
 - Ready for features like:
 
-- Multiple stocks
-
-- Email alerts
-
-- Scheduled execution (cron)
-
-- Dashboard / UI
+    - Multiple stocks
+    
+    - Email alerts
+    
+    - Scheduled execution (cron)
+    
+    - Dashboard / UI
 
 ## 👤 Author
 
