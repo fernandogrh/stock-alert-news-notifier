@@ -5,8 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 # 📈 Stock Alert & News Notifier (Python)
-### Real-time stock movement alerts with breaking news straight to your phone. Built to show clean Python logic, API integration, and secure environment handling.
 
+### Automated stock monitoring system integrating multiple APIs to deliver real-time SMS alerts.
 
 ## 🚀 What this project does
 
